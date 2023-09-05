@@ -146,6 +146,11 @@ img{
 @media screen and (min-width: 1280px) {
     .container{
         max-width: 1080px;
+        margin: 0 auto;
+    }
+    .photo-div{
+        margin: 0;
+        padding: 0;
     }
     .header-nav{
         width: 100%;
